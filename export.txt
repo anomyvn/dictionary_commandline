@@ -1,0 +1,4 @@
+go		di
+hello		xin chao	
+house		nha
+test		kiem tra
